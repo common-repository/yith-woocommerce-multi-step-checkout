@@ -1,0 +1,455 @@
+# Copyright (C) 2020 YITH
+# This file is distributed under the same license as the YITH WooCommerce Multi-step Checkout package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Multi-step Checkout 2.0.5\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/yith-woocommerce-multi-step-checkout\n"
+"POT-Creation-Date: 2020-12-03 09:53:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class.yith-multistep-checkout-admin.php:102
+msgid "Multi-step Checkout"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:103
+msgid "Split checkout process into more steps"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:112
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:354
+#: includes/class.yith-multistep-checkout-frontend.php:355
+#: includes/class.yith-multistep-checkout-frontend.php:390
+#: templates/woocommerce/checkout/form-checkout.php:44
+#: templates/woocommerce/checkout/form-checkout.php:45
+msgid "Next"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:356
+#: templates/woocommerce/checkout/form-checkout.php:46
+msgid "Previous"
+msgstr ""
+
+#: init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Multi-step Checkout "
+"while you are using the premium one."
+msgstr ""
+
+#: plugin-options/steps-options.php:111
+msgid "Step text color"
+msgstr ""
+
+#: plugin-options/steps-options.php:114
+msgid "Set text color for past, current and future step"
+msgstr ""
+
+#: plugin-options/steps-options.php:118
+msgid "Prev color"
+msgstr ""
+
+#: plugin-options/steps-options.php:123
+msgid "Current color"
+msgstr ""
+
+#: plugin-options/steps-options.php:128
+msgid "Future color"
+msgstr ""
+
+#: plugin-options/steps-options.php:160 plugin-options/steps-options.php:172
+msgid "Login"
+msgstr ""
+
+#: plugin-options/steps-options.php:169
+msgid "Login label"
+msgstr ""
+
+#: plugin-options/steps-options.php:170
+msgid "Enter a label for the login step"
+msgstr ""
+
+#: plugin-options/steps-options.php:176
+msgid "Allow guest checkout"
+msgstr ""
+
+#: plugin-options/steps-options.php:177
+msgid "Enable this to allow a customer to place an order without an account"
+msgstr ""
+
+#: plugin-options/steps-options.php:183
+msgid "Allow customer login"
+msgstr ""
+
+#: plugin-options/steps-options.php:184
+msgid "Enable this to allow the customer to login during the checkout process"
+msgstr ""
+
+#: plugin-options/steps-options.php:192 plugin-options/steps-options.php:204
+msgid "Billing"
+msgstr ""
+
+#: plugin-options/steps-options.php:201
+msgid "Billing label"
+msgstr ""
+
+#: plugin-options/steps-options.php:202
+msgid "Enter a label for the billing step"
+msgstr ""
+
+#: plugin-options/steps-options.php:210 plugin-options/steps-options.php:222
+msgid "Shipping"
+msgstr ""
+
+#: plugin-options/steps-options.php:219
+msgid "Shipping label"
+msgstr ""
+
+#: plugin-options/steps-options.php:220
+msgid "Enter a label for the shipping step"
+msgstr ""
+
+#: plugin-options/steps-options.php:228 plugin-options/steps-options.php:240
+msgid "Order Info"
+msgstr ""
+
+#: plugin-options/steps-options.php:237
+msgid "Order Info label"
+msgstr ""
+
+#: plugin-options/steps-options.php:238
+msgid "Enter a label for the order info step"
+msgstr ""
+
+#: plugin-options/steps-options.php:246 plugin-options/steps-options.php:258
+#: templates/woocommerce/checkout/form-checkout.php:145
+msgid "Payment"
+msgstr ""
+
+#: plugin-options/steps-options.php:255
+msgid "Payment label"
+msgstr ""
+
+#: plugin-options/steps-options.php:256
+msgid "Enter a label for the payment info step"
+msgstr ""
+
+#: templates/premium.php:169 templates/premium.php:270
+msgid ""
+"Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce "
+"Multi-step%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/premium.php:171 templates/premium.php:272
+msgid "Upgrade"
+msgstr ""
+
+#: templates/premium.php:177
+msgid "Premium Features"
+msgstr ""
+
+#: templates/premium.php:184
+msgid ""
+"Choose among 10 different layouts for the timeline of your multi-step "
+"checkout "
+msgstr ""
+
+#: templates/premium.php:187
+msgid ""
+"You can choose among 10 different layouts for the timeline, four of them in "
+"vertical style and four of them horizontal. Set the layout that best suits "
+"your e-commerce website and the one to show to mobile users. "
+msgstr ""
+
+#: templates/premium.php:196
+msgid "Customize the timeline colors: a checkout that suits every style and theme"
+msgstr ""
+
+#: templates/premium.php:199
+msgid ""
+"To make sure that the checkout style can suit every e-commerce theme, you "
+"will be able to customize the colors of every step and status (previous, "
+"next and current step) and all the texts."
+msgstr ""
+
+#: templates/premium.php:214
+msgid "Choose whether to show icons or numbers for your checkout steps"
+msgstr ""
+
+#: templates/premium.php:217
+msgid ""
+"Identify your steps with numbers or icons before the text. You can choose "
+"among the many high-quality icons we’ve designed for you or upload your own "
+"ones."
+msgstr ""
+
+#: templates/premium.php:226
+msgid ""
+"Merge Billing / Shipping and Order info / Payment steps to reduce the "
+"number of steps"
+msgstr ""
+
+#: templates/premium.php:229
+msgid ""
+"Usability tests confirm that a multi-step checkout is much more effective "
+"if there are no more than four steps in total. To streamline the process, "
+"combine Billing and Shipping Info into one step and Order and Payment Info "
+"into another step."
+msgstr ""
+
+#: templates/premium.php:244
+msgid "Enable AJAX validation for every step"
+msgstr ""
+
+#: templates/premium.php:247
+msgid ""
+"With the AJAX validation you can prevent customers from going on to the "
+"next step unless they have completed all mandatory fields."
+msgstr ""
+
+#: templates/premium.php:256
+msgid "Disable the Shipping step with just one click"
+msgstr ""
+
+#: templates/premium.php:259
+msgid ""
+"If your products don’t need to be shipped, just disable the Shipping step "
+"and it will not show up in the checkout process."
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:99
+msgid "You must be logged in before proceeding to checkout."
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:134
+msgid "Your order"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Thanks to <code><strong>YITH WooCommerce Multi-step "
+"Checkout</strong></code> you can split your checkout process into steps. "
+"Assist your customers during the purchase and make them feel safe by "
+"showing them where in the process they are and what the next step is. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your "
+"e-commerce shop on <strong>YITH</strong></a>"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:107
+msgctxt "Admin: Page title"
+msgid "Steps options"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-admin.php:108
+msgctxt "Admin: Page title"
+msgid "Buttons options"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:357
+#: templates/woocommerce/checkout/form-checkout.php:47
+msgctxt "Checkout: user timeline"
+msgid "Login"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:358
+#: templates/woocommerce/checkout/form-checkout.php:48
+msgctxt "Checkout: user timeline"
+msgid "Billing"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:359
+#: templates/woocommerce/checkout/form-checkout.php:49
+msgctxt "Checkout: user timeline"
+msgid "Shipping"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:360
+#: templates/woocommerce/checkout/form-checkout.php:50
+msgctxt "Checkout: user timeline"
+msgid "Order Info"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:361
+#: templates/woocommerce/checkout/form-checkout.php:51
+msgctxt "Checkout: user timeline"
+msgid "Payment Info"
+msgstr ""
+
+#: includes/class.yith-multistep-checkout-frontend.php:362
+#: plugin-options/buttons-options.php:67
+#: templates/woocommerce/checkout/form-checkout.php:52
+msgctxt "Frontend: button label"
+msgid "Back to cart"
+msgstr ""
+
+#: plugin-options/buttons-options.php:62
+msgctxt "Frontend: button label"
+msgid "Label for Back to cart button"
+msgstr ""
+
+#: init.php:37
+msgctxt "Alert Message: WooCommerce require"
+msgid ""
+"YITH WooCommerce Multi-step Chekcout is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: plugin-options/buttons-options.php:20
+msgctxt "Admin: section title"
+msgid "Prev/Next buttons options"
+msgstr ""
+
+#: plugin-options/buttons-options.php:49
+msgctxt "Admin: section title"
+msgid "Back to cart button options"
+msgstr ""
+
+#: plugin-options/buttons-options.php:23
+msgctxt "Admin option title"
+msgid "Label for prev button"
+msgstr ""
+
+#: plugin-options/buttons-options.php:31
+msgctxt "Admin option title"
+msgid "Label for next button"
+msgstr ""
+
+#: plugin-options/buttons-options.php:27
+msgctxt "Short text: Navigation Button label"
+msgid "Previous"
+msgstr ""
+
+#: plugin-options/buttons-options.php:35
+msgctxt "Short text: Navigation Button label"
+msgid "Next"
+msgstr ""
+
+#: plugin-options/buttons-options.php:28
+msgctxt "Admin option description"
+msgid "Enter a text for prev button"
+msgstr ""
+
+#: plugin-options/buttons-options.php:36
+msgctxt "Admin option description"
+msgid "Enter a text for next button"
+msgstr ""
+
+#: plugin-options/buttons-options.php:53
+msgctxt "Panel: section title"
+msgid "Show Back to cart button"
+msgstr ""
+
+#: plugin-options/steps-options.php:68
+msgctxt "Panel: section title"
+msgid "Steps Style"
+msgstr ""
+
+#: plugin-options/steps-options.php:86
+msgctxt "Panel: section title"
+msgid "Show a graphic separator between steps"
+msgstr ""
+
+#: plugin-options/steps-options.php:96
+msgctxt "Panel: section title"
+msgid "Separate step with"
+msgstr ""
+
+#: plugin-options/steps-options.php:155
+msgctxt "Panel: section title"
+msgid "Steps Customization"
+msgstr ""
+
+#: plugin-options/buttons-options.php:57
+msgctxt "Admin: option description"
+msgid "Enable to display the 'back to cart' button in the checkout page"
+msgstr ""
+
+#: plugin-options/buttons-options.php:66
+msgctxt "Admin: option description"
+msgid "Enter a text for back to cart button"
+msgstr ""
+
+#: plugin-options/steps-options.php:90
+msgctxt "Admin: option description"
+msgid "Enable to show a graphic separator between steps"
+msgstr ""
+
+#: plugin-options/steps-options.php:100
+msgctxt "Admin: option description"
+msgid "Enter the separator element for steps. For example, you can use / or -."
+msgstr ""
+
+#: plugin-options/steps-options.php:13
+msgctxt "Frontend: Step title"
+msgid "Login"
+msgstr ""
+
+#: plugin-options/steps-options.php:17
+msgctxt "Frontend: Step title"
+msgid "Billing"
+msgstr ""
+
+#: plugin-options/steps-options.php:21
+msgctxt "Frontend: Step title"
+msgid "Shipping"
+msgstr ""
+
+#: plugin-options/steps-options.php:25
+msgctxt "Frontend: Step title"
+msgid "Order info"
+msgstr ""
+
+#: plugin-options/steps-options.php:29
+msgctxt "Frontend: Step title"
+msgid "Payment info"
+msgstr ""
+
+#: plugin-options/steps-options.php:34
+msgctxt "Admin: part of label string, i.e. Login Icon, Billing Icon"
+msgid "Icon"
+msgstr ""
+
+#: plugin-options/steps-options.php:75
+msgctxt "Option: Title"
+msgid "Step position"
+msgstr ""
+
+#: plugin-options/steps-options.php:76
+msgctxt "Option: description"
+msgid "Set if you want to display the steps horizontally or vertically"
+msgstr ""
+
+#: plugin-options/steps-options.php:139
+msgctxt "Option: description"
+msgid "Set the speed of fade animation during transition from one step to the next"
+msgstr ""
+
+#: plugin-options/steps-options.php:79
+msgctxt "Option: timeline display"
+msgid "Horizontal"
+msgstr ""
+
+#: plugin-options/steps-options.php:80
+msgctxt "Option: timeline display"
+msgid "Vertical"
+msgstr ""
+
+#: plugin-options/steps-options.php:138
+msgctxt "Option: Title. Please, do not translate FadeIn/FadeOut"
+msgid "FadeIn and FadeOut Transition speed"
+msgstr ""
+
+#: templates/woocommerce/checkout/form-checkout.php:76
+msgctxt "[Frontend] Default message for returning customer on checkout page"
+msgid ""
+"If you have already registered, please, enter your details below. If you "
+"are a new customer, please, go to the Billing &amp; Shipping section."
+msgstr ""
